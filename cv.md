@@ -19,7 +19,7 @@ And with this knowlege i wanna make a difference and help people around me and a
 
 My skills
 ---------
-JavaScript(as beginer), HTML, MarkDown and CSS, Git and GitHub. Also i can hold 13 wineglasses in one hand, bu it's not important part.
+JavaScript(as beginer), HTML, MarkDown and CSS, Git and GitHub. Also i can hold 13 wineglasses in one hand, but it's not important part.
 
 My expirience
 -------------
