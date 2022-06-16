@@ -1,0 +1,49 @@
+
+body {
+    display: grid;
+    width: 80%;
+    margin: 0 auto;
+    grid-template-areas: 
+    'menu     menu'
+    'header header'
+    'main     main'
+    'footer footer';
+    grid-template-columns: auto;
+    grid-template-rows: 1fr;
+}
+
+menu {
+    grid-area: menu;
+}
+
+header { 
+    grid-area: header;
+    display: inline-flex;
+}
+
+main {
+    grid-area: main;
+}
+
+footer {
+    grid-area: footer;
+}
+
+header div {
+    box-sizing: border-box;
+    width: 30%;
+    height: 90%;
+}
+main > * {
+  box-sizing: border-box;
+  width: 80%;  
+}
+
+footer > * {
+    box-sizing: border-box;
+    float: left;
+}
+
+footer img {
+    width: 60%;
+}
